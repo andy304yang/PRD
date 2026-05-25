@@ -10,3 +10,5 @@
 
 暂无。
 - [REQ-20260525-001](docs/incoming/REQ-20260525-001.md)
+
+- [REQ-20260525-002](docs/incoming/REQ-20260525-002.md)
