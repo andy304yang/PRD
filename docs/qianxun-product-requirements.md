@@ -123,7 +123,7 @@ MVP 场景：
 顶部区域：
 
 - 品牌标识：QIANXUN AGENT WORK
-- 问候语：你好，Xiao
+- 问候语：哈喽，Xiao
 - 不展示分身状态、token、评分、姓名右侧 agent work 标识。
 
 主宣传区：
